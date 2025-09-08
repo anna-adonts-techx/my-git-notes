@@ -1,0 +1,5 @@
+- Git is a distributed version control system that helps track changes in source code during software development.
+- It allows multiple people to work on a project simultaneously without overwriting each other's work.
+- Git uses repositories to store project files and their history, enabling easy collaboration and backup.
+- Common commands include `git init`, `git add`, `git commit`, and `git push` for managing changes.
+- Branching and merging in Git make it easy to experiment with new features and integrate them into the main project.
