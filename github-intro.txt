@@ -1,0 +1,5 @@
+- GitHub is a web-based platform for version control and collaboration using Git.
+- It allows developers to host, review, and manage code repositories.
+- Users can contribute to projects through pull requests and issues.
+- GitHub supports collaboration through features like branching, merging, and code reviews.
+- It is widely used for open source and private software development projects.
